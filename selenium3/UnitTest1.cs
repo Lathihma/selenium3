@@ -34,7 +34,7 @@ namespace selenium3
             Login(driver);
             //maximize the window
             driver.Manage().Window.Maximize();
-            Verifyloginpage( driver);
+            //Verifyloginpage( driver);
             // Assert.AreEqual
         }
 
